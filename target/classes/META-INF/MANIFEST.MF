@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: arshp
+Build-Jdk: 17.0.6
+Main-Class: mypkg.MyClass1
+Created-By: Maven Integration for Eclipse
+
